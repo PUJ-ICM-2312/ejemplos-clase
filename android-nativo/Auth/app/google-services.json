@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556785785572",
+    "project_id": "icm-11-firebase",
+    "storage_bucket": "icm-11-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556785785572:android:578a662024a781b4e12af1",
+        "android_client_info": {
+          "package_name": "com.icm2510.auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP6AUkuuizf9Wq5Ea1fqxLpJESOKjacNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
